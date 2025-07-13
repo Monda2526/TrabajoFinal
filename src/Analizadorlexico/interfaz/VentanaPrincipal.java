@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.util.List;
 
-public class VentanaPrincipal extends JFrame {
+    public class VentanaPrincipal extends JFrame {
     private JTextArea areaCodigo;
     private JTextArea areaNumeracionLineas; 
     private JTextPane areaTokens;
